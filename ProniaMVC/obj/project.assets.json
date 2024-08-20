@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emre\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Emre\\Desktop\\ProniaMVCv0.1\\ProniaMVC\\ProniaMVC.csproj",
       "projectName": "ProniaMVC",
-      "projectPath": "C:\\Users\\Emre\\Desktop\\ProniaMVC\\ProniaMVC\\ProniaMVC.csproj",
+      "projectPath": "C:\\Users\\Emre\\Desktop\\ProniaMVCv0.1\\ProniaMVC\\ProniaMVC.csproj",
       "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emre\\Desktop\\ProniaMVC\\ProniaMVC\\obj\\",
+      "outputPath": "C:\\Users\\Emre\\Desktop\\ProniaMVCv0.1\\ProniaMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
